@@ -1,1 +1,1 @@
-# Python_GUI
+# Tkinter Mini Project
