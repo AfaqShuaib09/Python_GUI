@@ -1,10 +1,10 @@
 # Tkinter Mini Projects
 
-<h2>Requirements<\h2>
+<h2>Requirements</h2>
   <ul>
-    <li>Install Tkinter Package<\li>
-     <li> Pillow Package <\li>
-  <\ul>
+    <li>Install Tkinter Package</li>
+     <li> Pillow Package </li>
+  </ul>
     
 ----
     You can find the .exe for each app in following directories
