@@ -9,7 +9,8 @@
 ----
     You can find the .exe for each app in following directories
     - Afaq Calculator:  \Tkinter_mini_projects\Calculator\Afaq Calculator\main 
-    - Afaq Note++: Tkinter_mini_projects\Afaq Code ++\Afaq Code++
+    - Afaq Note++: \Tkinter_mini_projects\Afaq Code ++\Afaq Code++
+    - Window Resizer: \Tkinter_mini_projects\Window_resizer\Window_resizer
     
 ----
     
